@@ -1,0 +1,7 @@
+{
+  "name": "Flight Server",
+  "version": "0.1.0",
+  "scripts": {
+    "start": "json-server start"
+  }
+}
